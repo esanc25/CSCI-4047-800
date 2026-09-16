@@ -1,0 +1,13 @@
+git remote -v 
+    Shows your repository 
+
+git status 
+    Shows all changes
+
+git add (file path)
+    Pushes
+
+git commit -m
+    commits whatever 
+
+git push orgin main 
