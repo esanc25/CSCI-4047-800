@@ -1,0 +1,26 @@
+Fix your code and whatnot 
+
+1. Check that your thing is connected to git 
+    git status 
+
+    will print what branch youre on and if you are up to date pushing your stuff
+    Whatever is in RED has not been added to your github, so you will need to commit and push it 
+
+        ex:
+        modified:   Mod05 Data Preprocessing/Code Examples/PreprocessingInClass.ipynb
+
+2. Add your stuff to git 
+    git add Mod05 Data Preprocessing/Code Examples/PreprocessingInClass.ipynb
+
+    Tab will autocomplete most 
+
+3. Commit your stuff 
+    git commit -m "updated line in PreprocessingINClass"
+
+4. Push your stuff into the branch youre in 
+    git push origin main
+
+5. Commit your stuff with description 
+    git commit -m "updated line in PreprocessingINClass"
+
+    standard is adjective in present tense + stuff + stuff + file youre pushing
