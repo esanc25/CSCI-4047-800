@@ -16,11 +16,8 @@ Fix your code and whatnot
 
 3. Commit your stuff 
     git commit -m "updated line in PreprocessingINClass"
+    standard is adjective in present tense + stuff + stuff + file youre pushing
 
 4. Push your stuff into the branch youre in 
     git push origin main
 
-5. Commit your stuff with description 
-    git commit -m "updated line in PreprocessingINClass"
-
-    standard is adjective in present tense + stuff + stuff + file youre pushing
